@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tdn:home|Door43 (tdn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tdn|d43-tdn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tdn/archive/master.zip|d43-tdn.zip]]
+
+**Recent Changes**
+{{changes>ns = tdn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tdn|Ethnologue data]]
+
